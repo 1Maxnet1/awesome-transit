@@ -217,6 +217,10 @@ Apps people use when taking transit.
 - [Trufi App](https://github.com/trufi-association/trufi-app) - A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
 - [MACS Transit Android App](https://github.com/yeSpud/MACSTransitApp) - A bus tracker app for Android devices for the MACS Transit system in Fairbanks, Alaska. Uses RouteMatch APIs.
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
+- [KDE Itinerary](https://apps.kde.org/itinerary/) - digital travel assistant that protects your privacy. It makes collecting all the information about your travel inside a single application easy and straightforward. KDE Itinerary is available for Plasma Mobile and Android.
+- [KTrip](https://apps.kde.org/ktrip/) - helps you navigate in public transport. It allows you to find journeys between specified locations, departures for a specific station and shows real-time delay and disruption information.
+- [Railway](https://apps.gnome.org/en/DieBahn/) - Railway lets you look up travel information across networks and borders without having to navigate through different websites. Due to the adaptive design, it is suitable to plan your trip in advance or mobile on the go.
+- [Bimba](https://bimba.app/) - FLOSS public transport passenger companion; a timetable in your pocket.
 
 #### Native Apps (closed source)
 
